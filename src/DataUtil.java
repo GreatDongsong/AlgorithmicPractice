@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class DataUtil {
 
     public static int[] getIntArr() {
-        int[] intArr = getIntArr(3);
+        int[] intArr = getIntArr(20);
         System.out.println("DataUtil#getIntArr: ");
         printArr(intArr);
         return intArr;

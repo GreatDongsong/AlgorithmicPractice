@@ -2,7 +2,7 @@ public class MainClass {
 
     public static void main(String[] args) {
         int[] intArr = DataUtil.getIntArr();
-        Sort.bubbleSort(intArr);
+        Sort.bubbleSort2(intArr);
         DataUtil.printArr(intArr);
     }
 }
