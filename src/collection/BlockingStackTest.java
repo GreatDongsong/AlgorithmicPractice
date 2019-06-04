@@ -7,6 +7,7 @@ class BlockingStackTest {
         BlockingStack<Integer> integerBlockingStack = new BlockingStack<>();
         double random = Math.random();
 //        integerBlockingStack.push()
+        assert Integer(0).equals(integerBlockingStack.pop());
     }
 
     @org.junit.jupiter.api.Test
