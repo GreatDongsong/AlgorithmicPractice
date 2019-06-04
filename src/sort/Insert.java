@@ -19,7 +19,22 @@ public class Insert {
                 }
             }
         }
+    }
 
+    /**
+     * 基本思想：合并sort0中第二个for的停止条件
+     */
+
+    public static void sort1(int[] arr) {
+        int length = arr.length;
+        int temp;
+        for (int i = 0; i < length; i++) {
+            for (int j = i - 1; j >= 0 && (arr[j] > arr[j + 1]); j--) {
+                temp = arr[j];
+                arr[j] = arr[j + 1];
+                arr[j + 1] = temp;
+            }
+        }
     }
 
 }
