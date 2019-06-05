@@ -4,16 +4,15 @@ import java.util.Arrays;
 import java.util.EmptyStackException;
 
 public class MyStack<E> {
-    private E[] elementArray;
+    private E[] elementArray = (E[]) new Object[1];
     private int elementCount;
-    private int capacityIncrement = 20;
-
-    public MyStack() {
-        elementArray = (E[]) new Object[capacityIncrement];
-    }
 
     public synchronized E push(E item) {
-        ensureCapacity(elementCount + 1);
+        //ensure capacity
+        if (elementCount + 1 > elementArray.length) {
+            elementArray = Arrays.copyOf(elementArray, elementCount + 1);
+        }
+
         elementArray[elementCount++] = item;
         return item;
     }
@@ -30,7 +29,7 @@ public class MyStack<E> {
         }
         int j = elementCount - index - 1;
         if (j > 0) {
-            System.arraycopy(elementArray, index + 1, elementArray, index, j);
+            System.arraycopy(elementArray, size(), elementArray, index, j);
         }
         elementCount--;
         elementArray[elementCount] = null;
@@ -85,15 +84,5 @@ public class MyStack<E> {
 
     public synchronized int size() {
         return elementCount;
-    }
-
-    private void ensureCapacity(int minCapacity) {
-        if (minCapacity - elementArray.length > 0) {
-            int oldCapacity = elementArray.length;
-            int newCapacity = oldCapacity + capacityIncrement;
-            if (newCapacity - minCapacity < 0)
-                newCapacity = minCapacity;
-            elementArray = Arrays.copyOf(elementArray, newCapacity);
-        }
     }
 }
