@@ -1,28 +1,31 @@
 package collection;
 
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertTrue;
+
 class BlockingStackTest {
 
-    @org.junit.jupiter.api.Test
-    void push() {
-        BlockingStack<Integer> integerBlockingStack = new BlockingStack<>();
-        double random = Math.random();
-//        integerBlockingStack.push()
-        assert Integer(0).equals(integerBlockingStack.pop());
-    }
+    @Test
+    void test() {
+        MyStack<Integer> integerMyStack = new MyStack<>();
+        integerMyStack.push(0);
+        integerMyStack.push(1);
+        integerMyStack.push(2);
+        assertEquals(integerMyStack.size(), 3);
 
-    @org.junit.jupiter.api.Test
-    void pop() {
-    }
+        Integer peek = integerMyStack.peek();
+        assertEquals(2, peek);
 
-    @org.junit.jupiter.api.Test
-    void peek() {
-    }
+        Integer pop = integerMyStack.pop();
+        assertEquals(2, pop);
 
-    @org.junit.jupiter.api.Test
-    void empty() {
-    }
+        int search = integerMyStack.search(0);
+        assertEquals(2, search);
 
-    @org.junit.jupiter.api.Test
-    void search() {
+        integerMyStack.pop();
+        integerMyStack.pop();
+        assertTrue(integerMyStack.empty());
     }
 }

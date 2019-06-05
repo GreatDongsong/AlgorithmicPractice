@@ -3,12 +3,13 @@ package collection;
 import java.util.Arrays;
 import java.util.EmptyStackException;
 
-public class BlockingStack<E> {
+public class MyStack<E> {
     private E[] elementArray;
     private int elementCount;
-    private int capacityIncrement;
+    private int capacityIncrement = 20;
 
-    public BlockingStack() {
+    public MyStack() {
+        elementArray = (E[]) new Object[capacityIncrement];
     }
 
     public synchronized E push(E item) {
