@@ -1,10 +1,10 @@
 import java.util.Arrays;
 
-public class DataUtil {
+public class LogUtil {
 
     public static int[] getIntArr() {
         int[] intArr = getIntArr(5);
-        System.out.println("DataUtil#getIntArr: ");
+        System.out.println("LogUtil#getIntArr: ");
         printArr(intArr);
         return intArr;
     }
