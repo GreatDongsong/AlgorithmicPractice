@@ -17,32 +17,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/collection/MyStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/collection/MyStackTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1624">
-              <caret line="109" column="5" selection-start-line="109" selection-start-column="5" selection-end-line="109" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#testFun#0;class#MyStackTest#0" />
-                <element signature="method#testGeneric#0;class#MyStackTest#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -54,11 +28,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MainClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="150">
+              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -66,8 +37,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ShellSort.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sort/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sort/SolutionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
-              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+              <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -76,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/src/SubClass1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="50">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -90,24 +79,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MergeArr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="649">
-              <caret line="37" column="5" selection-end-line="39" />
+            <state relative-caret-position="900">
+              <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DataUtil.java">
+        <entry file="file://$PROJECT_DIR$/src/LogUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="499">
-              <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-              <folding>
-                <element signature="e#626#627#0" expanded="true" />
-                <element signature="e#684#685#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="225">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -127,8 +112,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Singleton" />
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -154,7 +139,6 @@
         <option value="$PROJECT_DIR$/src/sort/Bubble.java" />
         <option value="$PROJECT_DIR$/src/sort/Insertsort.java" />
         <option value="$PROJECT_DIR$/src/MainClass.java" />
-        <option value="$PROJECT_DIR$/src/DataUtil.java" />
         <option value="$PROJECT_DIR$/src/sort/Shell.java" />
         <option value="$PROJECT_DIR$/src/sort/Insert.java" />
         <option value="$PROJECT_DIR$/src/collection/BlockingStackTest.groovy" />
@@ -163,6 +147,10 @@
         <option value="$PROJECT_DIR$/src/collection/MyStack.java" />
         <option value="$PROJECT_DIR$/src/collection/MyStackTest.java" />
         <option value="$PROJECT_DIR$/src/MergeArr.java" />
+        <option value="$PROJECT_DIR$/src/DataUtil.java" />
+        <option value="$PROJECT_DIR$/src/LogUtil.java" />
+        <option value="$PROJECT_DIR$/src/sort/SolutionTest.java" />
+        <option value="$PROJECT_DIR$/src/sort/Solution.java" />
       </list>
     </option>
   </component>
@@ -180,8 +168,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -208,6 +194,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -231,6 +219,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="sort" />
       <recent name="collection" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -253,7 +242,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MergeArr">
+  <component name="RunManager" selected="JUnit.SolutionTest.twoSum">
     <configuration name="MergeArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MergeArr" />
       <module name="AlgorithmicPractice" />
@@ -289,38 +278,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyStackTest.testGeneric" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmicPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="collection" />
-      <option name="MAIN_CLASS_NAME" value="collection.MyStackTest" />
-      <option name="METHOD_NAME" value="testGeneric" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyStackTest.testJDKStack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AlgorithmicPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="collection" />
-      <option name="MAIN_CLASS_NAME" value="collection.MyStackTest" />
-      <option name="METHOD_NAME" value="testJDKStack" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MyStackTest.testThreadSafe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmicPractice" />
       <extension name="coverage">
@@ -337,13 +294,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmicPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sort" />
+      <option name="MAIN_CLASS_NAME" value="sort.SolutionTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTest.twoSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmicPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sort" />
+      <option name="MAIN_CLASS_NAME" value="sort.SolutionTest" />
+      <option name="METHOD_NAME" value="twoSum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SolutionTest.twoSum" />
+        <item itemvalue="JUnit.SolutionTest" />
         <item itemvalue="Application.MergeArr" />
         <item itemvalue="JUnit.MyStackTest.testThreadSafe" />
         <item itemvalue="JUnit.MyStackTest" />
-        <item itemvalue="JUnit.MyStackTest.testJDKStack" />
-        <item itemvalue="JUnit.MyStackTest.testGeneric" />
       </list>
     </recent_temporary>
   </component>
@@ -371,27 +358,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MyStackTest_testThreadSafe - 2019.06.05 at 14h 32m 20s.xml">
-      <configuration name="MyStackTest.testThreadSafe" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyStackTest_testThreadSafe - 2019.06.05 at 14h 32m 45s.xml">
-      <configuration name="MyStackTest.testThreadSafe" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyStackTest_testThreadSafe - 2019.06.05 at 14h 32m 58s.xml">
-      <configuration name="MyStackTest.testThreadSafe" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyStackTest_testThreadSafe - 2019.06.05 at 14h 36m 17s.xml">
-      <configuration name="MyStackTest.testThreadSafe" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyStackTest_testThreadSafe - 2019.06.05 at 14h 50m 22s.xml">
-      <configuration name="MyStackTest.testThreadSafe" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyStackTest_testThreadSafe - 2019.06.05 at 14h 50m 42s.xml">
-      <configuration name="MyStackTest.testThreadSafe" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyStackTest_testThreadSafe - 2019.06.05 at 14h 50m 59s.xml">
-      <configuration name="MyStackTest.testThreadSafe" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MyStackTest_testThreadSafe - 2019.06.05 at 14h 51m 21s.xml">
       <configuration name="MyStackTest.testThreadSafe" configurationId="JUnit" />
     </history-entry>
@@ -401,6 +367,27 @@
     <history-entry file="MyStackTest_testThreadSafe - 2019.06.05 at 14h 56m 24s.xml">
       <configuration name="MyStackTest.testThreadSafe" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SolutionTest - 2019.06.25 at 19h 53m 26s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest_twoSum - 2019.06.25 at 19h 55m 15s.xml">
+      <configuration name="SolutionTest.twoSum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest_twoSum - 2019.06.25 at 19h 55m 25s.xml">
+      <configuration name="SolutionTest.twoSum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest_twoSum - 2019.06.25 at 19h 56m 28s.xml">
+      <configuration name="SolutionTest.twoSum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest_twoSum - 2019.06.25 at 19h 56m 53s.xml">
+      <configuration name="SolutionTest.twoSum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest_twoSum - 2019.06.25 at 19h 57m 10s.xml">
+      <configuration name="SolutionTest.twoSum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest_twoSum - 2019.06.25 at 19h 57m 42s.xml">
+      <configuration name="SolutionTest.twoSum" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="2076000" />
@@ -409,14 +396,14 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2771855" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2803838" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32925472" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2836485" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2836485" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39933258" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -492,6 +479,12 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sort/Solution.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -650,16 +643,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/Stack.java">
+    <entry file="file://$PROJECT_DIR$/src/collection/MyStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="52" column="11" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
+        <state relative-caret-position="325">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/collection/MyStackTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1624">
+        <state relative-caret-position="2075">
           <caret line="109" column="5" selection-start-line="109" selection-start-column="5" selection-end-line="109" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -678,11 +674,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MainClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="150">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SubClass1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -693,45 +693,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/collection/MyStack.java">
+    <entry file="file://$PROJECT_DIR$/src/MergeArr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="900">
+          <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataUtil.java">
+    <entry file="file://$PROJECT_DIR$/src/LogUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-          <folding>
-            <element signature="e#626#627#0" expanded="true" />
-            <element signature="e#684#685#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="225">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SubClass1.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="725">
+          <caret line="52" column="11" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ShellSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        <state relative-caret-position="25">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MergeArr.java">
+    <entry file="file://$PROJECT_DIR$/src/sort/SolutionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="649">
-          <caret line="37" column="5" selection-end-line="39" />
+        <state relative-caret-position="200">
+          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
         </state>
       </provider>
     </entry>
